@@ -75,6 +75,6 @@
     "node": ">=6.0.0"
   },
   "dependencies": {
-    "2mundos-cropperjs": "^1.0.0"
+    "2mundos-cropperjs": "1.2.2-2m.0.0"
   }
 }

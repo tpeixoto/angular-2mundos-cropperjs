@@ -35,7 +35,7 @@
     "zone.js": "^0.8.4"
   },
   "dependencies": {
-    "2mundos-cropperjs": "^1.0.0"
+    "2mundos-cropperjs": "1.2.2-2m.0.0"
   },
   "devDependencies": {
     "@types/cropperjs": "0.0.26"
