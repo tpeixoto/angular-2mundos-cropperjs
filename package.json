@@ -1,12 +1,12 @@
 {
   "name": "angular-2mundos-dev-cropperjs",
   "description": "CropperJS integration for Angular 2/4",
-  "version": "0.1.5-test.1",
+  "version": "0.1.5-test.2",
   "scripts": {
     "build": "gulp build",
     "build:watch": "gulp",
     "docs": "npm run docs:build",
-    "docs:build": "compodoc -p tsconfig.json -n angular-cropperjs -d docs --hideGenerator",
+    "docs:build": "compodoc -p tsconfig.json -n angular-2mundos-dev-cropperjs -d docs --hideGenerator",
     "docs:serve": "npm run docs:build -- -s",
     "docs:watch": "npm run docs:build -- -s -w",
     "lint": "tslint --type-check --project tsconfig.json src/**/*.ts",
