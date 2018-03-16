@@ -1,7 +1,7 @@
 {
   "name": "angular-2mundos-cropperjs",
   "description": "CropperJS integration for Angular 2/4",
-  "version": "0.1.5-2m.0.0",
+  "version": "0.1.5-test.0",
   "repository": {
     "type": "git",
     "url": "https://github.com/tpeixoto/angular-2mundos-cropperjs"
