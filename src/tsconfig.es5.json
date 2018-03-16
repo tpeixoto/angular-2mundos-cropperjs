@@ -22,7 +22,7 @@
     "strictMetadataEmit": true,
     "skipTemplateCodegen": true,
     "flatModuleOutFile": "angular-cropperjs.js",
-    "flatModuleId": "angular-2mundos-cropperjs"
+    "flatModuleId": "angular-2mundos-dev-cropperjs"
   },
   "files": [
     "./index.ts"
