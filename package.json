@@ -1,12 +1,12 @@
 {
-  "name": "angular-2mundos-dev-cropperjs",
+  "name": "angular-2mundos-cropperjs",
   "description": "CropperJS integration for Angular 2/4",
-  "version": "0.1.5-test.4",
+  "version": "0.1.5-2m.0.1",
   "scripts": {
     "build": "gulp build",
     "build:watch": "gulp",
     "docs": "npm run docs:build",
-    "docs:build": "compodoc -p tsconfig.json -n angular-2mundos-dev-cropperjs -d docs --hideGenerator",
+    "docs:build": "compodoc -p tsconfig.json -n angular-2mundos-cropperjs -d docs --hideGenerator",
     "docs:serve": "npm run docs:build -- -s",
     "docs:watch": "npm run docs:build -- -s -w",
     "lint": "tslint --type-check --project tsconfig.json src/**/*.ts",
@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/tpeixoto/angular-2mundos-dev-cropperjs"
+    "url": "https://github.com/tpeixoto/angular-2mundos-cropperjs"
   },
   "author": {
     "name": "Matheus Davidson",
@@ -75,6 +75,6 @@
     "node": ">=6.0.0"
   },
   "dependencies": {
-    "2mundos-cropperjs": "1.2.2-test.0"
+    "2mundos-cropperjs": "1.2.2-2m.0.1"
   }
 }

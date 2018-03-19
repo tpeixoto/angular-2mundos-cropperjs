@@ -1,10 +1,10 @@
 {
-  "name": "angular-2mundos-dev-cropperjs",
+  "name": "angular-2mundos-cropperjs",
   "description": "CropperJS integration for Angular 2/4",
-  "version": "0.1.5-test.4",
+  "version": "0.1.5-2m.0.1",
   "repository": {
     "type": "git",
-    "url": "https://github.com/tpeixoto/angular-2mundos-dev-cropperjs"
+    "url": "https://github.com/tpeixoto/angular-2mundos-cropperjs"
   },
   "author": {
     "name": "Matheus Davidson",
@@ -35,7 +35,7 @@
     "zone.js": "^0.8.4"
   },
   "dependencies": {
-    "2mundos-cropperjs": "1.2.2-test.0"
+    "2mundos-cropperjs": "1.2.2-2m.0.1"
   },
   "devDependencies": {
     "@types/cropperjs": "0.0.26"

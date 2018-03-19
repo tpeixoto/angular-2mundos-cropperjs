@@ -1,7 +1,7 @@
 (function (global, factory) {
 	typeof exports === 'object' && typeof module !== 'undefined' ? factory(exports, require('@angular/core'), require('@angular/common'), require('2mundos-cropperjs/dist/cropper')) :
 	typeof define === 'function' && define.amd ? define(['exports', '@angular/core', '@angular/common', '2mundos-cropperjs/dist/cropper'], factory) :
-	(factory((global['angular-2mundos-dev-cropperjs'] = {}),global.core,global.common,global.Cropper));
+	(factory((global['angular-2mundos-cropperjs'] = {}),global.core,global.common,global.Cropper));
 }(this, (function (exports,core,common,Cropper) { 'use strict';
 
 var AngularCropperjsComponent = (function () {
